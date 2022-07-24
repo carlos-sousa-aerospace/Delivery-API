@@ -130,3 +130,6 @@ dmypy.json
 
 # VS Code folders
 .vscode/
+
+# Jupyter notebooks
+*.ipynb
